@@ -15,3 +15,9 @@
 * https://dzone.com/articles/how-to-practice-pair-programming-for-great-results
 * https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF
 * https://www.ibm.com/garage/method/practices/code/practice_pair_programming/
+* https://philippe.bourgau.net/10-pair-programming-questions-answers/
+* https://blog.submain.com/code-review-vs-pair-programming-2/
+* https://blog.rapid7.com/2017/01/27/5-rules-of-pair-programming-etiquette/
+* https://www.iste.org/explore/In-the-classroom/3-best-practices-for-pair-programming
+* https://www.sitepoint.com/collaborative-coding-tools-for-remote-pair-programming/
+
