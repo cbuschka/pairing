@@ -20,4 +20,16 @@
 * https://blog.rapid7.com/2017/01/27/5-rules-of-pair-programming-etiquette/
 * https://www.iste.org/explore/In-the-classroom/3-best-practices-for-pair-programming
 * https://www.sitepoint.com/collaborative-coding-tools-for-remote-pair-programming/
+* https://www.thoughtworks.com/insights/blog/effective-navigation-in-pair-programming
+* https://www.switchup.org/blog/better-together-why-pair-programming-can-keep-you-on-track
+* https://stackoverflow.blog/2016/11/22/pair-programming-and-how-it-can-make-you-a-better-programmer/
+* https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
+* https://blog.galvanize.com/pair-programming-two-heads-better-one/
+* https://github.com/andela/bestpractices/wiki/Pair-Programming
+* https://engineering.shopify.com/blogs/engineering/pair-programming-explained
+* https://tech.kartenmacherei.de/tagged/pair-programming
+* https://ieeexplore.ieee.org/document/4375233
+* https://cs.brown.edu/courses/cs017/content/docs/pair-programming.pdf
+* https://www.scrum.org/resources/blog/turn-pair-programming-daily-practice
+* https://18f.gsa.gov/2015/05/04/pair-programming-why-two-heads-are-better-than-one/
 
