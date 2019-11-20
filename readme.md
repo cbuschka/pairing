@@ -11,3 +11,7 @@
 * https://www.codefellows.org/blog/6-reasons-for-pair-programming/
 * https://gds.blog.gov.uk/2018/02/06/how-to-pair-program-effectively-in-6-steps/
 * https://www.researchgate.net/publication/3249409_Are_Two_Heads_Better_than_One_On_the_Effectiveness_of_Pair_Programming
+* https://arxiv.org/pdf/1706.02062
+* https://dzone.com/articles/how-to-practice-pair-programming-for-great-results
+* https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF
+* https://www.ibm.com/garage/method/practices/code/practice_pair_programming/
